@@ -1,1 +1,4 @@
+coverage
 test
+README.md
+jest.config.js
