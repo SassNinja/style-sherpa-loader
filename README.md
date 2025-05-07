@@ -1,7 +1,7 @@
-# Style Sherpa
+> [!WARNING]
+> This loader isn't maintained anymore and it's recommended to use something else
 
-[![Npm Version](https://badge.fury.io/js/style-sherpa-loader.svg)](https://www.npmjs.com/package/style-sherpa-loader) 
-[![Month Downloads](https://img.shields.io/npm/dm/style-sherpa-loader.svg)](http://npm-stat.com/charts.html?package=style-sherpa-loader)
+# Style Sherpa
 
 This webpack loader converts a single Style Sherpa Markdown file to a pre-made HTML template with tabbed sections as your style guide. The template is powered by [Foundation for Sites](http://foundation.zurb.com) and compiled with [Handlebars](https://handlebarsjs.com/).
 
@@ -97,6 +97,8 @@ If you wanna customize it you can override the default one with your own templat
 
 ## Contribution
 
-If you find any bug or miss a feature just create an issue or a PR to do the job.
+As mentioned at the beginning, this loader isn't maintained anymore due to several reasons
 
-**And last but not least, if you like this loader please give it a star on github and share it!**
+- not much interest (0 stars)
+- Foundation for Sites is dead (even if some folks can't admit it... see [one example](https://github.com/foundation/foundation-sites/issues/12514) of many)
+- I'm neither using this loader myself anymore nor anything else from Zurb/Foundation
